@@ -14,10 +14,8 @@
   },
   "include": [
     "./src",
-    "./template"
   ],
-  "exclude": [
-    "./src/system.*",
-    "./src/**.spec.*"
-  ]
+  // "exclude": [
+  //    "./src/template"
+  // ]
 }

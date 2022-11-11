@@ -1,3 +1,4 @@
+export const gitignore = `
 # Logs
 logs
 *.log
@@ -5,8 +6,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
-
-.vscode
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
@@ -104,3 +103,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+front
+`
